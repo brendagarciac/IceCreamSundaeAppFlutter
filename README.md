@@ -1,4 +1,4 @@
-# Ice Cream Sundae App Flutter
+# Ice Cream Sundae App Flutter 🍨
 
 Same concept of the Ice Cream Sundae App from a previous repos with Kotlin, but this time using Android Studio and Flutter/Dart.
 
